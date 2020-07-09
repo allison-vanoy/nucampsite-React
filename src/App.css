@@ -61,5 +61,4 @@ h2 {
 
 .page-exit-active {
   opacity: 0;
-  transition: 300ms ease-in;
 }
